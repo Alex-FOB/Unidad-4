@@ -1,0 +1,25 @@
+{
+    "__class__": "Manejador",
+    "pacientes": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Ag\u00fcero",
+                "nombre": "Alex",
+                "telefono": "(264)4120257",
+                "altura": 1.87,
+                "peso": 70.0
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Romanello",
+                "nombre": "Giuliano",
+                "telefono": "(264)4593734",
+                "altura": 1.9,
+                "peso": 85.0
+            }
+        }
+    ]
+}
