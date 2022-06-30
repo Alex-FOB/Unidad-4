@@ -1,0 +1,77 @@
+{
+    "__class__": "Manejador",
+    "provincias": [
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Juan",
+                "capital": "San Juan",
+                "habitantes": 681055,
+                "departamentos": 19,
+                "temperatura": 13.58,
+                "sensacion": 11.8,
+                "humedad": 31.0
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Mendoza",
+                "capital": "Mendoza",
+                "habitantes": 1886000,
+                "departamentos": 18,
+                "temperatura": 12.74,
+                "sensacion": 11.3,
+                "humedad": 47.0
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Rio Negro",
+                "capital": "Viedma",
+                "habitantes": 52754,
+                "departamentos": 13,
+                "temperatura": 5.92,
+                "sensacion": 5.92,
+                "humedad": 86.0
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Catamarca",
+                "capital": "Catamarca",
+                "habitantes": 5465,
+                "departamentos": 12,
+                "temperatura": 13.21,
+                "sensacion": 11.94,
+                "humedad": 52.0
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "La Rioja",
+                "capital": "La Rioja",
+                "habitantes": 362000,
+                "departamentos": 18,
+                "temperatura": 10.88,
+                "sensacion": 10.48,
+                "humedad": 94.0
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Luis",
+                "capital": "San Luis",
+                "habitantes": 431420,
+                "departamentos": 10,
+                "temperatura": 9.58,
+                "sensacion": 5.64,
+                "humedad": 53.0
+            }
+        }
+    ]
+}
